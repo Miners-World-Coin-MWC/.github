@@ -20,7 +20,7 @@ Whether you're a miner, developer, node operator or community member, you're wel
 | CPU Miner | [Sugarmaker](https://github.com/Miners-World-Coin-MWC/sugarmaker) |
 | Web Miner | [WebMiner](https://github.com/Miners-World-Coin-MWC/WebMiner) |
 | API Server / Web Wallet | [Api-Server](https://github.com/Miners-World-Coin-MWC/Api-Server) |
-| Mobile Wallets | [MinersWorldCoin-Mobile-Wallets](https://github.com/CryptoLover705/MinersWorldCoin-Mobile-Wallets) |
+| Mobile Wallets | [MinersWorldCoin-Mobile-Wallets](https://github.com/Miners-World-Coin-MWC/MinersWorldCoin-Mobile-Wallets) |
 | Community Discord | [Join the MWC Discord](https://discord.gg/5HZGx5bbKK) |
 
 Check each repository for the latest releases, supported platforms, documentation and installation instructions.
